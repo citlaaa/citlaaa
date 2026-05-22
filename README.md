@@ -7,13 +7,13 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
 
 Soy estudiante de Informática y actualmente curso el 8vo semestre 
 Me encanta aprender cosas nuevas y creativas, especialmente aquellas que me permiten crecer y crear proyectos innovadores.
 
 <!--* **I am interested in Web designing, Android development, and digital marketing**-->
-- 🌱 I’m currently learning ...
+- 🌱 Actualmente estoy aprendiendo ...
   - Redes Nuronales 
   - Inteligencia Artificial
 - ✔ Preguntame lo que quieras, estoy encantada en ayudarte.
